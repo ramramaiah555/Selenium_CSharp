@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBIwqFrxESk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Learn_C#\\Learn_CSharp\\Learn_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.support\\4.27.0\\selenium.support.4.27.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.26400\\selenium.webdriver.chromedriver.131.0.6778.26400.nupkg.sha512"
+  ],
+  "logs": []
+}
