@@ -38,7 +38,6 @@ namespace Learn_CSharp.Oops.Encapsulation
                 Console.WriteLine("Insufficient balance or invalid amount.");
             }
         }
-
-
     }
+
 }
