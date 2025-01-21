@@ -10,9 +10,9 @@ namespace Learn_CSharp.CSharp
     {
         static void Main(string[] args)
         {
-            for (int i = 1, j = 100; i <= 100; i++, j--)
+            for (int i = 1; i<=100; i ++)
             {
-               orderBy
+               Console.WriteLine(i);
             }
 
         }
